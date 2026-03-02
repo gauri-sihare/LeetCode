@@ -17,4 +17,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/gauri-sihare/LeetCode/tree/master/0155-min-stack) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/gauri-sihare/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
