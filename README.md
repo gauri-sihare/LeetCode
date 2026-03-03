@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauri-sihare/LeetCode/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gauri-sihare/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Hash Table
 |  |
 | ------- |
@@ -12,6 +13,7 @@
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gauri-sihare/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/gauri-sihare/LeetCode/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -23,4 +25,8 @@
 | [0584-find-customer-referee](https://github.com/gauri-sihare/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/gauri-sihare/LeetCode/tree/master/0595-big-countries) |
 | [1757-recyclable-and-low-fat-products](https://github.com/gauri-sihare/LeetCode/tree/master/1757-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/gauri-sihare/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
