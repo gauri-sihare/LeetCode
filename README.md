@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/gauri-sihare/LeetCode/tree/master/0001-two-sum) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauri-sihare/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/gauri-sihare/LeetCode/tree/master/0739-daily-temperatures) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauri-sihare/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/gauri-sihare/LeetCode/tree/master/0155-min-stack) |
+| [0739-daily-temperatures](https://github.com/gauri-sihare/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -36,4 +38,8 @@
 |  |
 | ------- |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/gauri-sihare/LeetCode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
