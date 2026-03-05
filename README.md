@@ -42,4 +42,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/gauri-sihare/LeetCode/tree/master/0739-daily-temperatures) |
+## String
+|  |
+| ------- |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gauri-sihare/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 <!---LeetCode Topics End-->
