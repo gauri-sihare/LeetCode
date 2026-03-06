@@ -46,4 +46,5 @@
 |  |
 | ------- |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gauri-sihare/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
+| [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gauri-sihare/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 <!---LeetCode Topics End-->
