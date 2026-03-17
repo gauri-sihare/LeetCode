@@ -52,6 +52,7 @@
 | [0022-generate-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0022-generate-parentheses) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gauri-sihare/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gauri-sihare/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/gauri-sihare/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Linked List
 |  |
 | ------- |
@@ -77,4 +78,12 @@
 | ------- |
 | [0141-linked-list-cycle](https://github.com/gauri-sihare/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/gauri-sihare/LeetCode/tree/master/0283-move-zeroes) |
+## Greedy
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/gauri-sihare/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+## Enumeration
+|  |
+| ------- |
+| [2259-remove-digit-from-number-to-maximize-result](https://github.com/gauri-sihare/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
