@@ -101,4 +101,20 @@
 |  |
 | ------- |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0226-invert-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
