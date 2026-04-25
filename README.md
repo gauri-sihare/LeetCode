@@ -36,6 +36,7 @@
 |  |
 | ------- |
 | [0197-rising-temperature](https://github.com/gauri-sihare/LeetCode/tree/master/0197-rising-temperature) |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/gauri-sihare/LeetCode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0584-find-customer-referee](https://github.com/gauri-sihare/LeetCode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/gauri-sihare/LeetCode/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/gauri-sihare/LeetCode/tree/master/1068-product-sales-analysis-i) |
