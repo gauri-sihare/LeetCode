@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gauri-sihare/LeetCode/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/gauri-sihare/LeetCode/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/gauri-sihare/LeetCode/tree/master/0041-first-missing-positive) |
 | [0053-maximum-subarray](https://github.com/gauri-sihare/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/0054-spiral-matrix) |
@@ -108,6 +109,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gauri-sihare/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/gauri-sihare/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0031-next-permutation](https://github.com/gauri-sihare/LeetCode/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/gauri-sihare/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/gauri-sihare/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/gauri-sihare/LeetCode/tree/master/0143-reorder-list) |
