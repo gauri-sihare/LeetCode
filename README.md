@@ -17,6 +17,7 @@
 | [0287-find-the-duplicate-number](https://github.com/gauri-sihare/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/gauri-sihare/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0496-next-greater-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gauri-sihare/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/gauri-sihare/LeetCode/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -39,6 +40,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauri-sihare/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/gauri-sihare/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gauri-sihare/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/gauri-sihare/LeetCode/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
@@ -78,6 +80,7 @@
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/gauri-sihare/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/gauri-sihare/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/gauri-sihare/LeetCode/tree/master/0739-daily-temperatures) |
 ## String
 |  |
