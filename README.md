@@ -31,6 +31,7 @@
 | [0041-first-missing-positive](https://github.com/gauri-sihare/LeetCode/tree/master/0041-first-missing-positive) |
 | [0141-linked-list-cycle](https://github.com/gauri-sihare/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gauri-sihare/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/gauri-sihare/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
@@ -93,6 +94,7 @@
 | [0020-valid-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/gauri-sihare/LeetCode/tree/master/0072-edit-distance) |
+| [0387-first-unique-character-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/gauri-sihare/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/gauri-sihare/LeetCode/tree/master/0796-rotate-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gauri-sihare/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -210,8 +212,13 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/gauri-sihare/LeetCode/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/gauri-sihare/LeetCode/tree/master/0796-rotate-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
