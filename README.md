@@ -40,6 +40,7 @@
 | [0076-minimum-window-substring](https://github.com/gauri-sihare/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/gauri-sihare/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gauri-sihare/LeetCode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/gauri-sihare/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -107,6 +108,7 @@
 | [0022-generate-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/gauri-sihare/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/gauri-sihare/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0242-valid-anagram](https://github.com/gauri-sihare/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0771-jewels-and-stones](https://github.com/gauri-sihare/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -175,6 +177,7 @@
 | [0088-merge-sorted-array](https://github.com/gauri-sihare/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/gauri-sihare/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-sihare/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/gauri-sihare/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 ## Tree
