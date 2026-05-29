@@ -45,6 +45,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/gauri-sihare/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 ## Stack
@@ -111,6 +112,7 @@
 | [0242-valid-anagram](https://github.com/gauri-sihare/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/gauri-sihare/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/gauri-sihare/LeetCode/tree/master/0796-rotate-string) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gauri-sihare/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -166,6 +168,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/gauri-sihare/LeetCode/tree/master/0134-gas-station) |
+| [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gauri-sihare/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 ## Enumeration
@@ -180,6 +183,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-sihare/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/gauri-sihare/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 ## Tree
 |  |
@@ -222,6 +226,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-sihare/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/gauri-sihare/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -250,6 +255,7 @@
 | [0169-majority-element](https://github.com/gauri-sihare/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 ## String Matching
 |  |
 | ------- |
