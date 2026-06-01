@@ -30,6 +30,7 @@
 | [0496-next-greater-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gauri-sihare/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0661-image-smoother](https://github.com/gauri-sihare/LeetCode/tree/master/0661-image-smoother) |
+| [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0739-daily-temperatures](https://github.com/gauri-sihare/LeetCode/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -47,6 +48,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/gauri-sihare/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
@@ -114,6 +116,7 @@
 | [0242-valid-anagram](https://github.com/gauri-sihare/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/gauri-sihare/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/gauri-sihare/LeetCode/tree/master/0796-rotate-string) |
@@ -186,6 +189,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-sihare/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/gauri-sihare/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauri-sihare/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -231,6 +235,7 @@
 | [0239-sliding-window-maximum](https://github.com/gauri-sihare/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/gauri-sihare/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 ## Divide and Conquer
 |  |
@@ -260,6 +265,7 @@
 | [0169-majority-element](https://github.com/gauri-sihare/LeetCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 ## String Matching
 |  |
@@ -279,6 +285,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
 ## Sliding Window
 |  |
 | ------- |
@@ -293,4 +300,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/gauri-sihare/LeetCode/tree/master/0239-sliding-window-maximum) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
