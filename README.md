@@ -35,6 +35,7 @@
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauri-sihare/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauri-sihare/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@
 | [0283-move-zeroes](https://github.com/gauri-sihare/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-sihare/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/gauri-sihare/LeetCode/tree/master/0876-middle-of-the-linked-list) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauri-sihare/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Greedy
 |  |
 | ------- |
@@ -177,6 +179,7 @@
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauri-sihare/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gauri-sihare/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauri-sihare/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -193,6 +196,7 @@
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauri-sihare/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauri-sihare/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
 |  |
 | ------- |
@@ -260,6 +264,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gauri-sihare/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/gauri-sihare/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-sihare/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauri-sihare/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
