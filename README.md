@@ -93,6 +93,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauri-sihare/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gauri-sihare/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Matrix
 |  |
 | ------- |
@@ -153,6 +154,7 @@
 | [0064-minimum-path-sum](https://github.com/gauri-sihare/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/gauri-sihare/LeetCode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/gauri-sihare/LeetCode/tree/master/0120-triangle) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gauri-sihare/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gauri-sihare/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/gauri-sihare/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
 |  |
 | ------- |
