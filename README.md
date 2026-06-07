@@ -35,6 +35,7 @@
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauri-sihare/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gauri-sihare/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2574-left-and-right-sum-differences](https://github.com/gauri-sihare/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauri-sihare/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -55,6 +56,7 @@
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/gauri-sihare/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gauri-sihare/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Stack
 |  |
 | ------- |
@@ -219,6 +221,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/gauri-sihare/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gauri-sihare/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -245,6 +248,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/gauri-sihare/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [2196-create-binary-tree-from-descriptions](https://github.com/gauri-sihare/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
 |  |
 | ------- |
