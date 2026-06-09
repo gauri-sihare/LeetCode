@@ -40,6 +40,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/gauri-sihare/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauri-sihare/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/gauri-sihare/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -194,6 +195,7 @@
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gauri-sihare/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauri-sihare/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/gauri-sihare/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Enumeration
 |  |
 | ------- |
