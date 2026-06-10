@@ -31,6 +31,7 @@
 | [0503-next-greater-element-ii](https://github.com/gauri-sihare/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0661-image-smoother](https://github.com/gauri-sihare/LeetCode/tree/master/0661-image-smoother) |
 | [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/gauri-sihare/LeetCode/tree/master/0705-design-hashset) |
 | [0739-daily-temperatures](https://github.com/gauri-sihare/LeetCode/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -55,6 +56,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
+| [0705-design-hashset](https://github.com/gauri-sihare/LeetCode/tree/master/0705-design-hashset) |
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/gauri-sihare/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
@@ -74,6 +76,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/gauri-sihare/LeetCode/tree/master/0155-min-stack) |
+| [0705-design-hashset](https://github.com/gauri-sihare/LeetCode/tree/master/0705-design-hashset) |
 ## Database
 |  |
 | ------- |
@@ -145,6 +148,7 @@
 | [0143-reorder-list](https://github.com/gauri-sihare/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/gauri-sihare/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gauri-sihare/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0705-design-hashset](https://github.com/gauri-sihare/LeetCode/tree/master/0705-design-hashset) |
 | [0876-middle-of-the-linked-list](https://github.com/gauri-sihare/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -343,4 +347,8 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/gauri-sihare/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/gauri-sihare/LeetCode/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
