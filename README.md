@@ -46,6 +46,7 @@
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/gauri-sihare/LeetCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [1189-maximum-number-of-balloons](https://github.com/gauri-sihare/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gauri-sihare/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Stack
 |  |
 | ------- |
@@ -309,6 +311,7 @@
 | [0169-majority-element](https://github.com/gauri-sihare/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-sihare/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -336,6 +339,7 @@
 | [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [1189-maximum-number-of-balloons](https://github.com/gauri-sihare/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String Matching
 |  |
 | ------- |
@@ -365,6 +369,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gauri-sihare/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -379,6 +384,7 @@
 | [1732-find-the-highest-altitude](https://github.com/gauri-sihare/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/gauri-sihare/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/gauri-sihare/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Function
 |  |
 | ------- |
@@ -387,6 +393,7 @@
 |  |
 | ------- |
 | [3691-maximum-total-subarray-value-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Counting Sort
 |  |
 | ------- |
