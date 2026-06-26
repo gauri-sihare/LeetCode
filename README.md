@@ -27,6 +27,7 @@
 | [0287-find-the-duplicate-number](https://github.com/gauri-sihare/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/gauri-sihare/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0496-next-greater-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gauri-sihare/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0661-image-smoother](https://github.com/gauri-sihare/LeetCode/tree/master/0661-image-smoother) |
@@ -124,6 +125,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/0054-spiral-matrix) |
 | [0064-minimum-path-sum](https://github.com/gauri-sihare/LeetCode/tree/master/0064-minimum-path-sum) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0661-image-smoother](https://github.com/gauri-sihare/LeetCode/tree/master/0661-image-smoother) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 ## Monotonic Stack
@@ -239,6 +241,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-sihare/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/gauri-sihare/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
@@ -301,6 +304,7 @@
 | [0239-sliding-window-maximum](https://github.com/gauri-sihare/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/gauri-sihare/LeetCode/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
@@ -323,6 +327,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/gauri-sihare/LeetCode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/gauri-sihare/LeetCode/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-sihare/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/gauri-sihare/LeetCode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Bit Manipulation
