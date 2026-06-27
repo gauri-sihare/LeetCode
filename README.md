@@ -167,6 +167,7 @@
 | [0083-remove-duplicates-from-sorted-list](https://github.com/gauri-sihare/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/gauri-sihare/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/gauri-sihare/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/gauri-sihare/LeetCode/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/gauri-sihare/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/gauri-sihare/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/gauri-sihare/LeetCode/tree/master/0705-design-hashset) |
@@ -209,6 +210,7 @@
 | [0088-merge-sorted-array](https://github.com/gauri-sihare/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/gauri-sihare/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/gauri-sihare/LeetCode/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/gauri-sihare/LeetCode/tree/master/0148-sort-list) |
 | [0283-move-zeroes](https://github.com/gauri-sihare/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-sihare/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/gauri-sihare/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -240,6 +242,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/gauri-sihare/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/gauri-sihare/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gauri-sihare/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-sihare/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/gauri-sihare/LeetCode/tree/master/0242-valid-anagram) |
@@ -317,6 +320,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/gauri-sihare/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/gauri-sihare/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/gauri-sihare/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/gauri-sihare/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gauri-sihare/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/gauri-sihare/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -380,6 +384,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/gauri-sihare/LeetCode/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/gauri-sihare/LeetCode/tree/master/0148-sort-list) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Monotonic Queue
