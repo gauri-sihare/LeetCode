@@ -37,6 +37,7 @@
 | [0739-daily-temperatures](https://github.com/gauri-sihare/LeetCode/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/gauri-sihare/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1338-reduce-array-size-to-the-half](https://github.com/gauri-sihare/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/gauri-sihare/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauri-sihare/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -75,6 +76,7 @@
 | [0771-jewels-and-stones](https://github.com/gauri-sihare/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [1189-maximum-number-of-balloons](https://github.com/gauri-sihare/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1338-reduce-array-size-to-the-half](https://github.com/gauri-sihare/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gauri-sihare/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauri-sihare/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -237,6 +239,7 @@
 | [0455-assign-cookies](https://github.com/gauri-sihare/LeetCode/tree/master/0455-assign-cookies) |
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
+| [1338-reduce-array-size-to-the-half](https://github.com/gauri-sihare/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauri-sihare/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauri-sihare/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauri-sihare/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -266,6 +269,7 @@
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/gauri-sihare/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1338-reduce-array-size-to-the-half](https://github.com/gauri-sihare/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauri-sihare/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/gauri-sihare/LeetCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/gauri-sihare/LeetCode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -333,6 +337,7 @@
 | [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/gauri-sihare/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1338-reduce-array-size-to-the-half](https://github.com/gauri-sihare/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauri-sihare/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/gauri-sihare/LeetCode/tree/master/3620-network-recovery-pathways) |
 | [3691-maximum-total-subarray-value-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3691-maximum-total-subarray-value-ii) |
