@@ -134,6 +134,7 @@
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gauri-sihare/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/gauri-sihare/LeetCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -171,6 +172,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gauri-sihare/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauri-sihare/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gauri-sihare/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -440,6 +442,7 @@
 | [3699-number-of-zigzag-arrays-i](https://github.com/gauri-sihare/LeetCode/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Hash Function
 |  |
 | ------- |
