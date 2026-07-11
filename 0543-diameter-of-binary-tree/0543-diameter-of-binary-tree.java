@@ -14,34 +14,26 @@
  * }
  */
 class Solution {
+    int res =0 ;
     public int diameterOfBinaryTree(TreeNode root) {
-        Map<TreeNode, Integer> hm = new HashMap<>();
-        Stack<TreeNode> stack = new Stack<>();
-        int dia = 0;
-
-        if(root != null){
-            stack.push(root);
+        if(root == null){
+            return 0;
         }
-
-        while(!stack.isEmpty()){
-            TreeNode node = stack.peek();
-
-            if(node.left != null && !hm.containsKey(node.left)){
-                stack.push(node.left);
-            }
-            else if( node.right != null && !hm.containsKey(node.right)){
-                stack.push(node.right);
-            }else{
-                stack.pop();
-
-                int leftDepth = hm.getOrDefault(node.left , 0);
-                int rightDepth = hm.getOrDefault(node.right , 0);
-
-                hm.put(node , 1+ Math.max(leftDepth, rightDepth));
-
-                dia = Math.max(dia , leftDepth+rightDepth);
-            }
+        helper(root );
+        return res;
+    }
+    public int helper(TreeNode root ){
+         int height ;
+        if(root == null){
+            return 0;
         }
-        return dia;
+        int lh = helper(root.left);
+        int rh = helper(root.right);
+        
+        res = Math.max(res , lh+rh );
+        height = (1+ Math.max(lh , rh));
+
+        
+        return height;   //issi function k liye height needed h .
     }
 }
