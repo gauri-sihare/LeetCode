@@ -39,6 +39,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/gauri-sihare/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/gauri-sihare/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/gauri-sihare/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
+| [1331-rank-transform-of-an-array](https://github.com/gauri-sihare/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gauri-sihare/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gauri-sihare/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
@@ -80,6 +81,7 @@
 | [0771-jewels-and-stones](https://github.com/gauri-sihare/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [1189-maximum-number-of-balloons](https://github.com/gauri-sihare/LeetCode/tree/master/1189-maximum-number-of-balloons) |
+| [1331-rank-transform-of-an-array](https://github.com/gauri-sihare/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gauri-sihare/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gauri-sihare/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gauri-sihare/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -285,6 +287,7 @@
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/gauri-sihare/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1288-remove-covered-intervals](https://github.com/gauri-sihare/LeetCode/tree/master/1288-remove-covered-intervals) |
+| [1331-rank-transform-of-an-array](https://github.com/gauri-sihare/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gauri-sihare/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gauri-sihare/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauri-sihare/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
