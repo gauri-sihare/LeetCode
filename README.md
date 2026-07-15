@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauri-sihare/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/gauri-sihare/LeetCode/tree/master/0231-power-of-two) |
 | [0973-k-closest-points-to-origin](https://github.com/gauri-sihare/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gauri-sihare/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gauri-sihare/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -208,6 +209,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/gauri-sihare/LeetCode/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/gauri-sihare/LeetCode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/gauri-sihare/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/gauri-sihare/LeetCode/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -412,6 +414,7 @@
 | [0078-subsets](https://github.com/gauri-sihare/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/gauri-sihare/LeetCode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/gauri-sihare/LeetCode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/gauri-sihare/LeetCode/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-sihare/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Counting
