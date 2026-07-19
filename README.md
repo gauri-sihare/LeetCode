@@ -328,6 +328,7 @@
 | [0226-invert-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gauri-sihare/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gauri-sihare/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -349,6 +350,7 @@
 | [0226-invert-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gauri-sihare/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gauri-sihare/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
@@ -392,6 +394,7 @@
 | [0226-invert-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/gauri-sihare/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0543-diameter-of-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gauri-sihare/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
@@ -468,6 +471,7 @@
 ## String Matching
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0796-rotate-string](https://github.com/gauri-sihare/LeetCode/tree/master/0796-rotate-string) |
 ## Queue
 |  |
@@ -519,6 +523,7 @@
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0705-design-hashset](https://github.com/gauri-sihare/LeetCode/tree/master/0705-design-hashset) |
 ## Segment Tree
 |  |
