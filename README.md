@@ -37,6 +37,7 @@
 | [0739-daily-temperatures](https://github.com/gauri-sihare/LeetCode/tree/master/0739-daily-temperatures) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/gauri-sihare/LeetCode/tree/master/0973-k-closest-points-to-origin) |
+| [1260-shift-2d-grid](https://github.com/gauri-sihare/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/gauri-sihare/LeetCode/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/gauri-sihare/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/gauri-sihare/LeetCode/tree/master/1331-rank-transform-of-an-array) |
@@ -160,6 +161,7 @@
 | [0064-minimum-path-sum](https://github.com/gauri-sihare/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0661-image-smoother](https://github.com/gauri-sihare/LeetCode/tree/master/0661-image-smoother) |
+| [1260-shift-2d-grid](https://github.com/gauri-sihare/LeetCode/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/gauri-sihare/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/gauri-sihare/LeetCode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -402,6 +404,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/0054-spiral-matrix) |
+| [1260-shift-2d-grid](https://github.com/gauri-sihare/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gauri-sihare/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Heap (Priority Queue)
 |  |
