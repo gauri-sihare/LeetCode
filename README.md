@@ -341,6 +341,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gauri-sihare/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gauri-sihare/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -411,6 +412,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gauri-sihare/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
@@ -593,4 +595,5 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
