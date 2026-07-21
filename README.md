@@ -197,6 +197,7 @@
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gauri-sihare/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/gauri-sihare/LeetCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gauri-sihare/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/gauri-sihare/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Linked List
 |  |
@@ -290,6 +291,7 @@
 | [1291-sequential-digits](https://github.com/gauri-sihare/LeetCode/tree/master/1291-sequential-digits) |
 | [2259-remove-digit-from-number-to-maximize-result](https://github.com/gauri-sihare/LeetCode/tree/master/2259-remove-digit-from-number-to-maximize-result) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/gauri-sihare/LeetCode/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/gauri-sihare/LeetCode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/gauri-sihare/LeetCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Sorting
 |  |
