@@ -76,6 +76,7 @@
 | [0076-minimum-window-substring](https://github.com/gauri-sihare/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/gauri-sihare/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/gauri-sihare/LeetCode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/gauri-sihare/LeetCode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/gauri-sihare/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/gauri-sihare/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/gauri-sihare/LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -145,6 +146,7 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/gauri-sihare/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0202-happy-number](https://github.com/gauri-sihare/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/gauri-sihare/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gauri-sihare/LeetCode/tree/master/0268-missing-number) |
 | [0973-k-closest-points-to-origin](https://github.com/gauri-sihare/LeetCode/tree/master/0973-k-closest-points-to-origin) |
@@ -262,6 +264,7 @@
 | [0141-linked-list-cycle](https://github.com/gauri-sihare/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/gauri-sihare/LeetCode/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/gauri-sihare/LeetCode/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/gauri-sihare/LeetCode/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/gauri-sihare/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/gauri-sihare/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/gauri-sihare/LeetCode/tree/master/0455-assign-cookies) |
