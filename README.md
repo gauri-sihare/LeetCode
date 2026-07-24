@@ -199,6 +199,7 @@
 | [0771-jewels-and-stones](https://github.com/gauri-sihare/LeetCode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/gauri-sihare/LeetCode/tree/master/0796-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauri-sihare/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/gauri-sihare/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1189-maximum-number-of-balloons](https://github.com/gauri-sihare/LeetCode/tree/master/1189-maximum-number-of-balloons) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/gauri-sihare/LeetCode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/gauri-sihare/LeetCode/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
@@ -242,6 +243,7 @@
 | [0064-minimum-path-sum](https://github.com/gauri-sihare/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/gauri-sihare/LeetCode/tree/master/0072-edit-distance) |
 | [0120-triangle](https://github.com/gauri-sihare/LeetCode/tree/master/0120-triangle) |
+| [1143-longest-common-subsequence](https://github.com/gauri-sihare/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/gauri-sihare/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3620-network-recovery-pathways](https://github.com/gauri-sihare/LeetCode/tree/master/3620-network-recovery-pathways) |
