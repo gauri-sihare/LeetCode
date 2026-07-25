@@ -1,7 +1,5 @@
 class Solution {
     public int maxProduct(int n) {
-        // PriorityQueue<Integer> pq = new PriorityQueue<>(Comparator.reverseOrder());
-
         int firstlar = Integer.MIN_VALUE;
         int seclar  =  Integer.MIN_VALUE;
 
@@ -15,13 +13,8 @@ class Solution {
                 firstlar = last_dig;
                 
             }
-            
-
             n = n /10;
-            
         }
-        
-      
         int ans = firstlar*seclar;
         return ans;
     }
