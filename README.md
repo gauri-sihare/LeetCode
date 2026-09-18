@@ -155,6 +155,7 @@
 | [0202-happy-number](https://github.com/gauri-sihare/LeetCode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/gauri-sihare/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/gauri-sihare/LeetCode/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/gauri-sihare/LeetCode/tree/master/0412-fizz-buzz) |
 | [0628-maximum-product-of-three-numbers](https://github.com/gauri-sihare/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0973-k-closest-points-to-origin](https://github.com/gauri-sihare/LeetCode/tree/master/0973-k-closest-points-to-origin) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/gauri-sihare/LeetCode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -203,6 +204,7 @@
 | [0076-minimum-window-substring](https://github.com/gauri-sihare/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/gauri-sihare/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/gauri-sihare/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
@@ -458,6 +460,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/0054-spiral-matrix) |
+| [0412-fizz-buzz](https://github.com/gauri-sihare/LeetCode/tree/master/0412-fizz-buzz) |
 | [1260-shift-2d-grid](https://github.com/gauri-sihare/LeetCode/tree/master/1260-shift-2d-grid) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/gauri-sihare/LeetCode/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Heap (Priority Queue)
