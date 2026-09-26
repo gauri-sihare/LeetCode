@@ -47,6 +47,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/gauri-sihare/LeetCode/tree/master/1331-rank-transform-of-an-array) |
 | [1338-reduce-array-size-to-the-half](https://github.com/gauri-sihare/LeetCode/tree/master/1338-reduce-array-size-to-the-half) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/gauri-sihare/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1480-running-sum-of-1d-array](https://github.com/gauri-sihare/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/gauri-sihare/LeetCode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1732-find-the-highest-altitude](https://github.com/gauri-sihare/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/gauri-sihare/LeetCode/tree/master/1833-maximum-ice-cream-bars) |
@@ -600,6 +601,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/gauri-sihare/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/gauri-sihare/LeetCode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/gauri-sihare/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [3312-sorted-gcd-pair-queries](https://github.com/gauri-sihare/LeetCode/tree/master/3312-sorted-gcd-pair-queries) |
