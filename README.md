@@ -260,6 +260,7 @@
 | [0120-triangle](https://github.com/gauri-sihare/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauri-sihare/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/gauri-sihare/LeetCode/tree/master/0337-house-robber-iii) |
+| [0968-binary-tree-cameras](https://github.com/gauri-sihare/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1143-longest-common-subsequence](https://github.com/gauri-sihare/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/gauri-sihare/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/gauri-sihare/LeetCode/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -384,6 +385,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/gauri-sihare/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gauri-sihare/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/gauri-sihare/LeetCode/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
@@ -415,6 +417,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0572-subtree-of-another-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/gauri-sihare/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/gauri-sihare/LeetCode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/gauri-sihare/LeetCode/tree/master/2685-count-the-number-of-complete-components) |
@@ -475,6 +478,7 @@
 | [0637-average-of-levels-in-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/gauri-sihare/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/gauri-sihare/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/gauri-sihare/LeetCode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/gauri-sihare/LeetCode/tree/master/2196-create-binary-tree-from-descriptions) |
 ## Simulation
@@ -685,4 +689,5 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauri-sihare/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/gauri-sihare/LeetCode/tree/master/0337-house-robber-iii) |
+| [0968-binary-tree-cameras](https://github.com/gauri-sihare/LeetCode/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
