@@ -5,16 +5,16 @@ class Solution {
          return res;
     }
 
-    void genPar(List<String>res, String s, int left, int right){
-        if(left== 0 && right ==0){
+    void genPar(List<String>res, String s, int leftparanthesis, int rightparanthesis){
+        if(leftparanthesis== 0 && rightparanthesis ==0){
             res.add(s);
             return;
         }
-        if(left>0){
-            genPar(res, s +"(", left-1, right);
+        if( leftparanthesis > 0 ){
+            genPar(res, s +"(", leftparanthesis -1, rightparanthesis);
         }
-        if(right>left){
-            genPar(res, s+")", left, right-1);
+        if(rightparanthesis > leftparanthesis){
+            genPar(res, s+ ")" , leftparanthesis , rightparanthesis - 1);
         }
     }
 }
