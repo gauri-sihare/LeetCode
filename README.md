@@ -109,6 +109,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/gauri-sihare/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/gauri-sihare/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/gauri-sihare/LeetCode/tree/master/0143-reorder-list) |
@@ -203,6 +204,7 @@
 | [0005-longest-palindromic-substring](https://github.com/gauri-sihare/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0072-edit-distance](https://github.com/gauri-sihare/LeetCode/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/gauri-sihare/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/gauri-sihare/LeetCode/tree/master/0242-valid-anagram) |
@@ -257,6 +259,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/gauri-sihare/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/gauri-sihare/LeetCode/tree/master/0053-maximum-subarray) |
 | [0064-minimum-path-sum](https://github.com/gauri-sihare/LeetCode/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/gauri-sihare/LeetCode/tree/master/0072-edit-distance) |
@@ -697,4 +700,5 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
