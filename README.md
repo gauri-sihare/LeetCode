@@ -119,6 +119,7 @@
 | [0155-min-stack](https://github.com/gauri-sihare/LeetCode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/gauri-sihare/LeetCode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/gauri-sihare/LeetCode/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/gauri-sihare/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/gauri-sihare/LeetCode/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauri-sihare/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/gauri-sihare/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -212,6 +213,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/gauri-sihare/LeetCode/tree/master/0412-fizz-buzz) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gauri-sihare/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/gauri-sihare/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/gauri-sihare/LeetCode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0771-jewels-and-stones](https://github.com/gauri-sihare/LeetCode/tree/master/0771-jewels-and-stones) |
@@ -266,6 +268,7 @@
 | [0120-triangle](https://github.com/gauri-sihare/LeetCode/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/gauri-sihare/LeetCode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0337-house-robber-iii](https://github.com/gauri-sihare/LeetCode/tree/master/0337-house-robber-iii) |
+| [0678-valid-parenthesis-string](https://github.com/gauri-sihare/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0968-binary-tree-cameras](https://github.com/gauri-sihare/LeetCode/tree/master/0968-binary-tree-cameras) |
 | [1143-longest-common-subsequence](https://github.com/gauri-sihare/LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1301-number-of-paths-with-max-score](https://github.com/gauri-sihare/LeetCode/tree/master/1301-number-of-paths-with-max-score) |
@@ -308,6 +311,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/gauri-sihare/LeetCode/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/gauri-sihare/LeetCode/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/gauri-sihare/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0767-reorganize-string](https://github.com/gauri-sihare/LeetCode/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/gauri-sihare/LeetCode/tree/master/0846-hand-of-straights) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/gauri-sihare/LeetCode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -701,4 +705,5 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/gauri-sihare/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/gauri-sihare/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
